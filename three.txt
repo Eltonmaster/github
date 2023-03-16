@@ -1,0 +1,4 @@
+cat <<EOF >> /etc/apt/sources.list.d/openmediavault.list
+deb https://packages.openmediavault.org/public shaitan main
+deb https://packages.openmediavault.org/public shaitan-proposed main
+EOF
